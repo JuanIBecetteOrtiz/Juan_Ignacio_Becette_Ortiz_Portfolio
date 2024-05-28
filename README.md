@@ -18,7 +18,7 @@ Me considero una persona que se adapta a muchas situaciones, adversas o no, que 
 
 ## 🌐 Conéctate Conmigo
 
-[Linkedin](www.linkedin.com/in/juan-ignacio-becette-ortiz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juan-ignacio-becette-ortiz)
 
 Para enviar un correo: nachobe010@gmail.com
 
