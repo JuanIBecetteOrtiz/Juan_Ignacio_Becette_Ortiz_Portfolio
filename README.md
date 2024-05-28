@@ -77,6 +77,10 @@ Para enviar un correo: nachobe010@gmail.com
 - Creación de programas Powershell y Scripts
 - Experiencia básica en FreePbx, para gestionar servicios VoIP con interfaz gráfica
 - Instalación y configuración de servicios Prestashop y Wordpress
+- Configuración de IPTables
+- Manejo de servicios Proxy: Squid y Squidguard
+- Manejos de servicios de generación de informes proxy: Sarg y LightSquid (Pfsense)
+- Configuración e instalación de SNORT
 
 
 ---
