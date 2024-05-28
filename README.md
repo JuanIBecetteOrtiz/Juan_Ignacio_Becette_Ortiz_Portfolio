@@ -34,20 +34,20 @@ Para enviar un correo: nachobe010@gmail.com
 ## 💼 Experiencia Laboral
 - **Helpdesk** - Sayós & Carrera (1 año y 3 meses)
     Tareas realizadas:
-      - Atención al usuario via Teléfonia / Telemática
-      - Manejo de active directory
-      - Manejo de herramienta de ticketing OTRS (Abrir / Cerrar peticiones o incidéncias)
-      - Manejo de usuarios y permisos en SAP ARGOS
+  - Atención al usuario via Teléfonia / Telemática
+  -  Manejo de active directory
+  -  Manejo de herramienta de ticketing OTRS (Abrir / Cerrar peticiones o incidéncias)
+  -  Manejo de usuarios y permisos en SAP ARGOS
 - **Administrador de sistemas en Red** - Sayós & Carrera (6 meses)
     Tareas realizadas:
-      - Atención al usuario via Teléfonia / Telemática
-      - Manejo / Configuración de herramienta de ticketing OTRS
-      - Creación de usuarios y gestionar permisos en el Active Directory
-      - Manejo de logs de diferentes aplicaciones y crear avisos de estos a través de Wazuh (Experiencia básica)
-      - Configuración de Firewall
-      - Manejo de Cisco Switches y Routers
-      - Envío de periféricos a usuarios
-      - Atender a usuarios físicamente o atender incidéncias/peticiones in situ
+  - Atención al usuario via Teléfonia / Telemática
+  -  Manejo / Configuración de herramienta de ticketing OTRS
+  -  Creación de usuarios y gestionar permisos en el Active Directory
+  -  Manejo de logs de diferentes aplicaciones y crear avisos de estos a través de Wazuh (Experiencia básica)
+  -  Configuración de Firewall
+  -  Manejo de Cisco Switches y Routers
+  -  Envío de periféricos a usuarios
+  -  Atender a usuarios físicamente o atender incidéncias/peticiones in situ
 
 ---
 
