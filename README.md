@@ -22,7 +22,7 @@ Me considero una persona que se adapta a muchas situaciones, adversas o no, que 
 
 Para enviar un correo: nachobe010@gmail.com
 
-Currículum: (Becette_Ortiz_Juan_Ignacio.pdf)
+[Currículum](Becette_Ortiz_Juan_Ignacio.pdf)
 
 
 ---
