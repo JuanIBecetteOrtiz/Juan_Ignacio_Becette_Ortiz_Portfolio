@@ -69,6 +69,7 @@ Para enviar un correo: nachobe010@gmail.com
 - Configuración e instalación del servicio DNS en Ubuntu Server
 - Configuración e instalación del servicio DHCP en Ubuntu Server
 - Ejecución de scripts y automatización de estos a través de Crontab
+- Experiencia báisca en XML, XPATH y XSL
 - Experiecia básica en Mongo DB
 - Experiencia básica en JAVA
 - Experiencia básica en PHP
