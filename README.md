@@ -18,12 +18,8 @@ Me considero una persona que se adapta a muchas situaciones, adversas o no, que 
 
 ## 🌐 Conéctate Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/iv%C3%A1n-rodr%C3%ADguez-torres-786a71206](https://es.linkedin.com/in/juan-ignacio-becette-ortiz-a66abb263?trk=people-guest_people_search-card))
+eg. [Linkedin](www.linkedin.com/in/juan-ignacio-becette-ortiz-a66abb263)
 
----
-
-## 📄 Sobre Mí
-Soy una persona apasionada por las tecnologías, responsable y con muchas ganas de aprender y progresar social y optimista. Produzco y mi principal objetivo es el desarrollo y aprendizaje dentro de una empresa tecnológica.
 
 ---
 
