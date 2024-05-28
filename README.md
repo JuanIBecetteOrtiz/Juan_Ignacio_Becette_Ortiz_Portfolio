@@ -19,6 +19,7 @@ Me considero una persona que se adapta a muchas situaciones, adversas o no, que 
 ## 🌐 Conéctate Conmigo
 
 eg. [Linkedin](www.linkedin.com/in/juan-ignacio-becette-ortiz-a66abb263)
+Para enviar un correo: nachobe010@gmail.com
 
 
 ---
@@ -41,7 +42,7 @@ eg. [Linkedin](www.linkedin.com/in/juan-ignacio-becette-ortiz-a66abb263)
       - Atención al usuario via Teléfonia / Telemática
       - Manejo / Configuración de herramienta de ticketing OTRS
       - Creación de usuarios y gestionar permisos en el Active Directory
-      - Manejo de logs de diferentes aplicaciones y crear avisos de estos a través de Wazuh (Experiencia básica)ç
+      - Manejo de logs de diferentes aplicaciones y crear avisos de estos a través de Wazuh (Experiencia básica)
       - Configuración de Firewall
       - Manejo de Cisco Switches y Routers
       - Envío de periféricos a usuarios
@@ -75,9 +76,6 @@ eg. [Linkedin](www.linkedin.com/in/juan-ignacio-becette-ortiz-a66abb263)
 - Experiencia básica en FreePbx, para gestionar servicios VoIP con interfaz gráfica
 - Instalación y configuración de servicios Prestashop y Wordpress
 
-<div align="center">
-  <img height="500" src="https://iili.io/HrbGfsf.png"  />
-</div>
 
 ---
 
